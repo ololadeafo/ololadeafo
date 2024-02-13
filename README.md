@@ -1,15 +1,15 @@
 ## Hi! I'm Ololade Afolabi
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ololade-afolabi/)
 <br>
-:wave: I’m a Full Stack Software Engineer student in a 19-week immersive program at Hack Reactor. I live in Houston, Texas
+:wave: I’m a Full Stack Software Engineer from Houston, Texas
 <br>
-:computer: I’m currently learning Fast API, MongoDB, and Tailwind
+:computer: I’m currently learning Typescript, C++, and sharpening my Data Structures and algorithms knowledge
 <br>
 :woman_technologist: I'm interested in designing and creating computer systems and applications that solve real-world problems
 <br>
 :brain: I'm passionate about learning new skills and challenging myself to be the best at whatever i do
 <br>
-:flight_departure: Fun fact about me is that i love traveling
+:flight_departure: Fun fact about me is that i love traveling, trying new restaurants, and binge watching Korean dramas :)
 
 ### Languages and Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E)
@@ -18,6 +18,7 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=plastic&logo=git&logoColor=white)
+[![TypeScript](https://badges.frapsoft.com/typescript/love/typescript.svg?v=101)](https://github.com/ellerbrock/typescript-badges/)
 
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=green)
